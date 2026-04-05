@@ -7,9 +7,9 @@ A full-stack online second-hand marketplace platform built with HTML5, CSS, Boot
 - **Student Name:** Ankit
 - **Student Number:** 5143548
 - **Course:** [COSC-2956-W02]
-- **Instructor:** []
-- **GitHub Repository:** [Paste GitHub Link]
-- **Demo Video:** [Paste YouTube or Google Drive Link]
+- **Instructor:** [Ben Kam]
+- **GitHub Repository:** [https://github.com/ankit005-netizen/Term-project.git]
+- **Demo Video:** [https://youtu.be/4p9Xy1qWKWU?si=gOhaY_BLfK54M56u]
 
 ## Included features
 - User registration and login/logout
